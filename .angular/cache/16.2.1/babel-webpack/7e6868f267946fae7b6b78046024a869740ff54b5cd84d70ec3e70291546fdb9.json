@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from './index';","map":{"version":3,"names":[],"sources":["D:\\VS Project\\ng-chat\\src\\ng-chat.ts"],"sourcesContent":["\r\nexport * from './index';"],"mappings":"AACA,cAAc,SAAS"},"metadata":{},"sourceType":"module","externalDependencies":[]}
